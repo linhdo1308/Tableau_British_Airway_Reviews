@@ -1,4 +1,4 @@
-# Tableau British Airway Review - Interaction Dashboard
+# Tableau British Airway Review - Interactive Dashboard
 
 
 
